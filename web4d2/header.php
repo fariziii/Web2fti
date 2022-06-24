@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-  <title>Praktikum 2020</title>
+  <title>Praktikum 2022</title>
   <style>
     * {
       font-size: 14px;
